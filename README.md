@@ -1,2 +1,2 @@
-# Producto-2
-Producto 2: Subida de proyectos con control deversiones (Git)
+# Producto-3
+Producto 3: Contenerización de aplicaciones con Docker
